@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SecureMonitor.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PhoneNumbers" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0549330933,0523721307,0525403334</Value>
+    </Setting>
+    <Setting Name="authToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1a78a9835ce5fad26c00b76a7752dc9f</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
